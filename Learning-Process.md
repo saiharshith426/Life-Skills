@@ -24,9 +24,9 @@ Diffused Mode: This is when we take a break and let our mind relax. During this 
 
 **Question 4: According to the video, what are the steps to take when approaching a new topic? Only mention the points.**\
 **Answer:**\
-1. Break the skill into smaller parts.\
-2. Learn enough to self-correct.\
-3. Remove practice barriers.\
+1. Break the skill into smaller parts.
+2. Learn enough to self-correct.
+3. Remove practice barriers.
 4. Practice at least 20 hours.
 
 
@@ -34,11 +34,11 @@ Diffused Mode: This is when we take a break and let our mind relax. During this 
 
 **Question 5: What are some of the actions you can take going forward to improve your learning process?**\
 **Answer:**\
-1. I will give my full attention to the task I am working instead of getting distracted.\
-2. I'm gonna keep my phone away while studying and stay focused.\
-3. Whenever I learn a new concept, i try to understand where it used, why it is used and how to implement it in code.\
-4. Instead of memorizing definitons, I will try explaining the topics that i understood to my colleagues and discuss with them.\
-5. Will practice coding and visit the topics I forget often.\
-6. Will set realistic deadlines for completing assignements and tasks assigned.\
+1. I will give my full attention to the task I am working instead of getting distracted.
+2. I'm gonna keep my phone away while studying and stay focused.
+3. Whenever I learn a new concept, i try to understand where it used, why it is used and how to implement it in code.
+4. Instead of memorizing definitons, I will try explaining the topics that i understood to my colleagues and discuss with them.
+5. Will practice coding and visit the topics I forget often.
+6. Will set realistic deadlines for completing assignements and tasks assigned.
 7. If I get stuck or face difficulty understanding a thing I will ask my colleagues or seniors for help.
 
